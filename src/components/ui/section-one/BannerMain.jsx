@@ -22,7 +22,7 @@ const BannerMain = () => {
         <div className="flex  sm:flex-row justify-start items-center gap-4 text-left mt-10">
           <div className="relative flex gap-2 items-center w-full sm:w-auto">
             <img
-              src="src/assets/icons/send.svg"
+              src="/icons/send.svg"
               alt="Send icon"
               className="absolute left-3 h-4 w-4"
             />
