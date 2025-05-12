@@ -7,10 +7,10 @@
   --font-family-quicksand: 'Quicksand', sans-serif;
 
   /* ===== Font Sizes & Line Heights ===== */
-  --text-xl: 4.5rem; /* 72px */
+  --text-xl: 3rem; /* 72px */
   --leading-xl: 1.1;
 
-  --text-l: 1.875rem; /* 30px */
+  --text-l: 1.5rem; /* 30px */
   --leading-l: 1.3;
 
   --text-m: 1rem; /* 16px */
