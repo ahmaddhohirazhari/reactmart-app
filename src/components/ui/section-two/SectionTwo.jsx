@@ -59,7 +59,7 @@ const SectionTwo = () => {
               {displayedBrands.map((brand) => (
                 <li key={brand.id} className="flex justify-center">
                   <img
-                    src={`src/assets/brands${brand.image}`}
+                    src={`/brands${brand.image}`}
                     alt={`Brand ${brand.id}`}
                     className="w-full max-w-[80px] h-auto object-contain"
                   />
@@ -88,7 +88,7 @@ const SectionTwo = () => {
                 <li key={category.id} className="text-center">
                   <div className="rounded-lg p-2 mb-2">
                     <img
-                      src={`src/assets/categories${category.image}`}
+                      src={`/categories${category.image}`}
                       alt={`Category ${category.id}`}
                       className="w-full h-16 object-contain mx-auto"
                     />
